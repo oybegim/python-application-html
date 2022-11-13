@@ -4,5 +4,6 @@ from core.views import *
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('talab/', asosiy),
+    path('talab/', asosiy1),
+    path('cofe/', asosiy2),
 ]
